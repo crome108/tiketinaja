@@ -1,0 +1,20 @@
+.navbar1{
+    background-color: white;
+    color: darkslategray;
+}
+.navbar2{
+    position: absolute;
+    text-align: right;
+    left: 390px;
+}
+
+.imgh{
+    width: 50%;
+    height: 20%;
+}
+
+.imgh2{
+    width: 100 px ;
+    height: 100 px ;    
+}
+

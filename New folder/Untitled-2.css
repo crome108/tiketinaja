@@ -1,0 +1,42 @@
+body{
+    background: url("bahan ui9 2.png");
+    position: absolute;
+    width: 404px;
+    height: 670px;
+    left: -13px;
+    top: 0px;
+    background-repeat: no-repeat;
+
+}
+
+.logoo{
+    display: block;
+    margin: 0 auto;
+}
+
+/* Rectangle 7 */
+.box1{
+    position: absolute;
+    width: 302px;
+    height: 375px;
+    left: 36px;
+    top: 148px;
+    
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.inbox1{
+    position: absolute;
+    left: 28px;
+    color: rgb(rgb(31, 30, 30));
+    line-height: 22px;
+}
+
+.inbox2{
+    position:relative;
+    width: 200px;
+    background: rgb(40, 124, 233);
+    color: white;
+    text-align: center;
+    left: 20px;
+}

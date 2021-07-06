@@ -1,0 +1,26 @@
+.navbar1{
+    background-color: white;
+    color: darkslategray;
+}
+.navbar2{
+    position: absolute;
+    text-align: right;
+    left: 390px;
+}
+
+.imgh{
+    width: 50%;
+    height: 20%;
+}
+
+.imgh2{
+    width: 100 px ;
+    height: 100 px ;    
+}
+
+
+body{width:500px;margin:10 auto 60px;}
+#scrolling-menu{position: fixed;width: 150px;margin-top:10px;}
+#scrolling-menu div{padding:10px;margin-bottom:1px;background: #C7B3B3;color: #F0F0F0;cursor:pointer;}
+#scroll-content{border-left:#CCC 4px solid;margin-left:150px;padding-left:60px;color:#E0403A;}
+#scroll-content div{margin-bottom: 60px;}
